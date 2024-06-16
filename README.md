@@ -16,7 +16,7 @@
 
 ![image](https://github.com/Alejjandro0/hse24_bio_project/assets/90442987/c68651d8-c07b-4607-9017-8fd8d9d115d7)
 
-Файл family.tsv приложу в data.
+Файл family_genes.tsv приложу в data.
 
 ## Таблица с найденными структурами
 
